@@ -1,5 +1,3 @@
-function shoutOut(){
-    return 'Halo Function!';
-}
+let shoutOut = ()=>'Hello Function!'
 
 console.log(shoutOut());
